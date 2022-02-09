@@ -18,9 +18,10 @@
 ![gsap](https://img.shields.io/badge/-gsap-88CE02?logo=greensock&labelColor=424242)
 ![three.js](https://img.shields.io/badge/-three.js-blue?logo=Three.js&labelColor=424242)
 ![zustand](https://img.shields.io/badge/-zustand-red?logo=npm&labelColor=424242)
+![axios](https://img.shields.io/badge/-axios-red?logo=npm&labelColor=424242)
+![react-router-dom](https://img.shields.io/static/v1?label=&message=react-router-dom&color=red&logo=npm&labelColor=424242)
 
 <br />
 
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajinho&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajinho&layout=compact&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajinho&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajinho&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
