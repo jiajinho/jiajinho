@@ -3,8 +3,8 @@
 ### About Me 🚀
 🌱 I'm a React.js developer graduated with Bachelor's Degree of Computer Science with Artificial Intelligence. </br>
 🐳 Writing alot of codes during my time in university has led me to discover my passion in front-end development. </br> 
-👨‍💻 Currently, I love to discover stylish & artistic websites and reverse engineer it. </br>
-🌌 This helps me to build experience and draw inspirations for future projects. <br/>
+👨‍💻 Currently, I love to discover stylish and artistic websites and reverse engineer it. </br>
+🌌 This helps me to build experience and draw inspirations for future projects! <br/>
 
 
 ### My Portfolios 🙌
