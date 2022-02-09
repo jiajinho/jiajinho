@@ -21,4 +21,5 @@
 - [Audiophile](https://audiophile-1015.netlify.app/) - (Aug'21-Oct'21)
 - [Designo](https://designo-0722.netlify.app/) - (Jul'21-Jul'21)
 
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajinho)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajinho)](https://github.com/anuraghazra/github-readme-stats)
