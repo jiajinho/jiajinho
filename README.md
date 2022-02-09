@@ -14,7 +14,7 @@
 
 
 ### Favourite Libraries 🧙‍♂️
-![styled-components](https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&labelColor=424242)
+[![styled-components](https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&labelColor=424242)](https://styled-components.com/)
 ![gsap](https://img.shields.io/badge/-gsap-88CE02?logo=greensock&labelColor=424242)
 ![three.js](https://img.shields.io/badge/-three.js-blue?logo=Three.js&labelColor=424242)
 ![zustand](https://img.shields.io/badge/-zustand-red?logo=npm&labelColor=424242)
