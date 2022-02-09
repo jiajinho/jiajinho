@@ -10,13 +10,15 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+🌱 I'm a React.js developer graduated with Bachelor's Degree of Computer Science with Artificial Intelligence. </br>
+🐳 Writing alot of codes during my time in university has led me to discover my passion in front-end development. </br> 
+👨‍💻 Currently, I love to discover stylish & artistic websites and reverse engineer it. </br>
+🌌 This helps me to build experience and draw inspirations for future projects. <br/>
 
-### My Experiences 🙌
-- [Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-Present) ?
-- [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present) ?
-- [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21) ?
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=jiajinho&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jiajinho&layout=compact&langs_count=8&hide_border=true)
+### My Portfolios 🙌
+- [Somersby Infographic](https://somersby-info-1229.netlify.app/) - (Oct'21-Dec'21)
+- [Audiophile](https://audiophile-1015.netlify.app/) - (Aug'21-Oct'21)
+- [Designo](https://designo-0722.netlify.app/) - (Jul'21-Jul'21)
+
+![jiajinho's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jiajinho&layout=compact&langs_count=8&hide_border=true)
