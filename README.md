@@ -12,8 +12,15 @@
 - [Audiophile](https://audiophile-1015.netlify.app/) - (Aug'21-Oct'21)
 - [Designo](https://designo-0722.netlify.app/) - (Jul'21)
 
+
+### Favourite Libraries 🧙‍♂️
+![styled-components](https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&labelColor=424242)
+![gsap](https://img.shields.io/badge/-gsap-88CE02?logo=greensock&labelColor=424242)
+![three.js](https://img.shields.io/badge/-three.js-blue?logo=Three.js&labelColor=424242)
+![zustand](https://img.shields.io/badge/-zustand-red?logo=npm&labelColor=424242)
+
+<br />
+
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajinho&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajinho&layout=compact&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://img.shields.io/badge/-styled--components-424242?logo=styled-components" />
 
