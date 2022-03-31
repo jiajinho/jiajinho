@@ -18,9 +18,11 @@
 [![styled-components](https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&labelColor=424242)](https://styled-components.com/)
 [![gsap](https://img.shields.io/badge/-gsap-88CE02?logo=greensock&labelColor=424242)](https://greensock.com/)
 [![three.js](https://img.shields.io/badge/-three.js-blue?logo=Three.js&labelColor=424242)](https://threejs.org/)
+[![leaflet](https://img.shields.io/badge/-leaflet-199900?logo=leaflet&labelColor=424242)](https://leafletjs.com/)
+[![react-router](https://img.shields.io/badge/-react--router-CA4245?logo=reactrouter&labelColor=424242)](https://reactrouter.com/)
 [![zustand](https://img.shields.io/badge/-zustand-red?logo=npm&labelColor=424242)](https://zustand-demo.pmnd.rs/)
 [![axios](https://img.shields.io/badge/-axios-red?logo=npm&labelColor=424242)](https://github.com/axios/axios)
-[![react-router-dom](https://img.shields.io/static/v1?label=&message=react-router-dom&color=red&logo=npm&labelColor=424242)](https://v5.reactrouter.com/web/guides/quick-start)
+
 
 <br />
 
