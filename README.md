@@ -6,7 +6,7 @@
 👨‍💻 Currently, I love to discover stylish and artistic websites and reverse engineer it. </br>
 🌌 This helps me to build experience and draw inspirations for future projects! <br/>
 
-> I'm currently freelancing for React.js projects. Check out my [Fiverr](https://www.fiverr.com/jiajinho) profile to learn more!
+[//]: # (https://www.fiverr.com/jiajinho)
 
 ### My Portfolios 🙌
 - [Somersby Infographic](https://somersby-info-1229.netlify.app/) - (Oct'21-Dec'21)
