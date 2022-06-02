@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jia Jin!](https://www.linkedin.com/in/jjho97/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px">, I'm [Jia Jin!](https://www.linkedin.com/in/jjho97/) 
 
 ### About Me 🧙
 🌱 I'm a React.js developer graduated with Bachelor's Degree of Computer Science with Artificial Intelligence. </br>
