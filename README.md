@@ -24,9 +24,3 @@
 [![zustand](https://img.shields.io/badge/-zustand-red?logo=npm&labelColor=424242)](https://zustand-demo.pmnd.rs/)
 [![axios](https://img.shields.io/badge/-axios-red?logo=npm&labelColor=424242)](https://github.com/axios/axios)
 [![react-query](https://img.shields.io/badge/-react--query-FF4154?logo=react-query&labelColor=424242)](https://react-query.tanstack.com/)
-
-<br />
-
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajinho&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajinho&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
