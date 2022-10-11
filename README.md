@@ -21,7 +21,7 @@
 [![leaflet](https://img.shields.io/badge/-leaflet-199900?logo=leaflet&labelColor=424242)](https://leafletjs.com/)
 [![react-router](https://img.shields.io/badge/-react--router-CA4245?logo=reactrouter&labelColor=424242)](https://reactrouter.com/)
 [![zustand](https://img.shields.io/badge/-zustand-red?logo=npm&labelColor=424242)](https://zustand-demo.pmnd.rs/)
-[![axios](https://img.shields.io/badge/-axios-5A29E4?logo=Axios&labelColor=424242)](https://github.com/axios/axios)
+[![axios](https://img.shields.io/badge/-axios-5A29E4?logo=Axios&labelColor=424242)](https://axios-http.com/)
 [![react-query](https://img.shields.io/badge/-react--query-FF4154?logo=react-query&labelColor=424242)](https://react-query.tanstack.com/)
 \
 [![next-js](https://img.shields.io/badge/-next.js-000000?logo=Next.js&labelColor=424242)](https://nextjs.org/)
